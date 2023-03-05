@@ -19,11 +19,11 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate student at the XX, pursuing a B.E. degree in Computer.
+My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate student at the [China University of Petroleum at Karamay(CUPK)](https://www.cupk.edu.cn/), pursuing a B.E. degree in Computer.
 
 🌟🌟 I’m currently actively seeking for Ph.D., Research Assistant, or internship positions related to Machine Learning or AI. If you’re interested in working with me, don’t hesitate to drop me an email.
 
-My curriculum vitae can be downloaded[here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).
+<!-- My curriculum vitae can be downloaded[here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf). -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
