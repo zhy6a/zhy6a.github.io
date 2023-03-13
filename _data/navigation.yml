@@ -10,19 +10,19 @@ main:
     url: "/#-publications"
 
   - title: "Competition Awards"
-    url: "/#-Competition-Awards"
+    url: "/#-competition-awards"
     
   - title: "Scholarships and Awards"
-    url: "/#-Scholarships-and-awards"
+    url: "/#-scholarships-and-awards"
 
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#-educations"
     
   - title: "Skills"
-    url: "/#-Skills"
+    url: "/#skills"
 
   - title: "Miscellaneous"
-    url: "/#-Miscellaneous"
+    url: "/#miscellaneous"
 
 #   - title: "Invited Talks"
 #     url: "/#-invited-talks"
