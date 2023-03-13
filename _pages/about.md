@@ -50,8 +50,9 @@ waiting...
 </div> -->
 
 # 🏆 Competition Awards
+- **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
 - **Provincial Grand Prize.** ChinaUndergraduate Mathematical Contest in Modelling. *2022.11*
-- **Provincial Second Prize.** The Lanqiao Cup Competition at Xinjiang Division. *2022.05*
+- **Provincial Second Prize.** The Lanqiao Cup Competition. *2022.05*
 
 # 🎖 Scholarships and Awards
 - *2022.10* **Pacemaker to Merit Student** (Award Rate: 33/5821=0.1%) *China University of Petroleum at Karamay*
