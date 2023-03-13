@@ -7,28 +7,25 @@ main:
 #     url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
   - title: "Competition Awards"
-    url: "/#Competition Awards"
+    url: "/#-Competition Awards"
     
   - title: "Scholarships and Awards"
-    url: "/#Scholarships-and-awards"
+    url: "/#-Scholarships-and-awards"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
     
   - title: "Skills"
-    url: "/#Skills"
+    url: "/#-Skills"
 
   - title: "Miscellaneous"
-    url: "/#Miscellaneous"
+    url: "/#-Miscellaneous"
 
 #   - title: "Invited Talks"
 #     url: "/#-invited-talks"
 
 #   - title: "Internships"
 #     url: "/#-internships"
-    
-#   - title: "Github"
-#     url: "https://giuthub.com/zhy6a"
