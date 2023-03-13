@@ -50,7 +50,6 @@ waiting...
 </div> -->
 
 # 🏆 Competition Awards
-<span class='anchor' id='Competition Awards'></span>
 - **Provincial Grand Prize.** ChinaUndergraduate Mathematical Contest in Modelling. *2022.11*
 - **Provincial Second Prize.** The Lanqiao Cup Competition at Xinjiang Division. *2022.05*
 
