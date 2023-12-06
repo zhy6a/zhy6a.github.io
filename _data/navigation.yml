@@ -24,8 +24,8 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Miscellaneous"
-    url: "/#️miscellaneous"
+  # - title: "Miscellaneous"
+  #   url: "/#️miscellaneous"
 
 #   - title: "Invited Talks"
 #     url: "/#-invited-talks"
