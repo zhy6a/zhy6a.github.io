@@ -18,8 +18,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Skills"
-    url: "/#skills"
+  # - title: "Skills"
+  #   url: "/#skills"
+
+  - title: "Internships"
+    url: "/#-internships"
 
   - title: "Miscellaneous"
     url: "/#️miscellaneous"
@@ -27,5 +30,4 @@ main:
 #   - title: "Invited Talks"
 #     url: "/#-invited-talks"
 
-#   - title: "Internships"
-#     url: "/#-internships"
+
