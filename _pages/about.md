@@ -79,10 +79,11 @@ waiting...
 # 💻 Internships
 - *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), China.
 
+<!--
 # 🗄️Miscellaneous
 - I am a Red Cross first aid worker in Beijing City.
 - I enjoy volunteer services. I have volunteered for more than 100 hours in China University of Petroleum at Karamay.
-
+-->
 
 
 <!-- # 💬 Invited Talks
