@@ -19,9 +19,9 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate student at the [China University of Petroleum at Karamay(CUPK)](https://www.cupk.edu.cn/), pursuing a B.E. degree in Computer.
+My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate student at the [China University of Petroleum at Karamay(CUPK)](https://www.cupk.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology.
 
-🌟🌟 I’m currently actively seeking for Ph.D., Research Assistant, or internship positions related to Machine Learning or AI. If you’re interested in working with me, don’t hesitate to drop me an email.
+🌟🌟 I’m currently actively seeking for Ph.D., Research Assistant, or internship positions related to LLM or ai for science. If you’re interested in working with me, don’t hesitate to drop me an email.
 
 <!-- My curriculum vitae can be downloaded[here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf). -->
 
@@ -29,7 +29,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 
 # 🔥 News - 
-- *2023.03*: I won the Second Prize in the National Collegiate Mathematics Competition.
+- *2023.12*: Two papers were submitted to CCF B conferences or journals.
 
 
 # 📝 Publications 
@@ -49,32 +49,41 @@ waiting...
 </div> -->
 
 # 🏆 Competition Awards
+- **Third Prize.** Kaggle AI model runtime prediction. *2023.11*
+- **Third Prize.** Kaggle LLM Science Exam: Answer difficult questions using LLM *2023.10*
+- **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
 - **Provincial Grand Prize.** China Undergraduate Mathematical Contest in Modelling. *2022.11*
 - **Provincial Second Prize.** The Lanqiao Cup Competition. *2022.05*
 
+
+
 # 🎖 Scholarships and Awards
-- *2022.10* **Pacemaker to Merit Student** (Award Rate: 33/5821=0.1%) *China University of Petroleum at Karamay*
-- *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2023.11* **Pacemaker to Merit Student** (Award Rate: 53/6985=1%) *China University of Petroleum at Karamay*
+- *2023.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.11* **Pacemaker to Merit Student** (Award Rate: 33/5821=1%) *China University of Petroleum at Karamay*
+- *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
 # 📖 Educations
 - 2021.09 - now, Undergraduate, China University of Petroleum at Karamay,China,Majoring in Computer. 
 - *2018.09 - 2021.06*, Senior Middle School,Heze No.1 Middle School,China. 
 - *2015.09 - 2018.06*, Junior Middle School,Heze City Mudan District No. 21 Junior High School,China. 
 
+<!--
 # 🔧Skills
-- Programming Languages: C/C++, python
+- Programming Languages: C/C++, python, latex
 - Developer Tools: VS code, Git, PyCharm, Devc++
 - Languages: Mandarin & Shandong Heze Dialect (Native), English(CET-4:569,CET-6:450)
+-->
+
+# 💻 Internships
+- *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), China.
 
 # 🗄️Miscellaneous
+- I am a Red Cross first aid worker in Beijing City.
 - I enjoy volunteer services. I have volunteered for more than 100 hours in China University of Petroleum at Karamay.
-- I'm serving as an counselors office assistant.
 
 
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
