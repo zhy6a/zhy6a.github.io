@@ -77,7 +77,7 @@ waiting...
 -->
 
 # 💻 Internships
-- *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), China.
+- *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), Hangzhou.
 
 <!--
 # 🗄️Miscellaneous
