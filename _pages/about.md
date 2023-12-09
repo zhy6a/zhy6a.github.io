@@ -36,8 +36,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 # 📝 Publications 
 
 - [GGSAM:Graph_Based_Global_Semantic_Awareness_Model_for_Multi_Modal_Sarcasm_Detection]()   
-Yiwei Wei, Shaozu Yuan, **Hengyang Zhou**, Meng Chen, Longbiao Wang, lei Shen
-*AAAI, 2024*
+Yiwei Wei, Shaozu Yuan, **Hengyang Zhou**, Meng Chen, Longbiao Wang, lei Shen. **AAAI,2024**
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
