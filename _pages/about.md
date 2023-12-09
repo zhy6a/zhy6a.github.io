@@ -29,7 +29,8 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 
 # 🔥 News - 
-- *2023.12*: Two papers were submitted to CCF B conferences or journals.
+- *2023.12*: One paper is accepted by AAAI 2024.
+- *2023.12*: One papers is submitted to CCF B conferences.
 
 
 # 📝 Publications 
