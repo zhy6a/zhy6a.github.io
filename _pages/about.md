@@ -38,7 +38,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 $^\dagger$: equal contribution, $^*$: corresponding author
 
 - [GGSAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection]()   
-Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$$^*$, **Hengyang Zhou**, Longbiao Wang$^*$, Zhiling Yan, Ruosong Yang, Meng Chen              
+Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wang$^\*$, Zhiling Yan, Ruosong Yang, Meng Chen              
 *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
