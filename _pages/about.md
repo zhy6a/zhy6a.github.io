@@ -29,8 +29,8 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 
 # 🔥 News  
+- *2023.12*: One paper is submitted to Knowledge-Based Systems.
 - *2023.12*: One paper is accepted by AAAI 2024.
-- *2023.12*: One paper is submitted to CCF B conferences.
 - *2023.10*: Awarded with National Scholarship 2023.
 
 
