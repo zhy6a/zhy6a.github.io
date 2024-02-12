@@ -51,19 +51,19 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+# 🏆 Honors and Awards
+## 🏅 Honors
+- *2023.11* **Pacemaker to Merit Student** (Award Rate: 53/6985=1%) *China University of Petroleum at Karamay*
+- *2023.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.11* **Pacemaker to Merit Student** (Award Rate: 33/5821=1%) *China University of Petroleum at Karamay*
+- *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
-# 🏆 Competition Awards
+## 🎏 Competitions
 - **Third Prize.** Kaggle AI model runtime prediction. *2023.11*
 - **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
 - **Provincial Grand Prize.** China Undergraduate Mathematical Contest in Modelling. *2022.11*
 - **Provincial Second Prize.** The Lanqiao Cup Competition. *2022.05*
-
-# 🎖 Scholarships and Awards
-- *2023.11* **Pacemaker to Merit Student** (Award Rate: 53/6985=1%) *China University of Petroleum at Karamay*
-- *2023.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.11* **Pacemaker to Merit Student** (Award Rate: 33/5821=1%) *China University of Petroleum at Karamay*
-- *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
 # 📖 Educations
 - 2021.09 - now, Undergraduate, China University of Petroleum at Karamay,China,Majoring in Data Science and Big Data Technology. 
