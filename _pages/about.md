@@ -55,13 +55,10 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 
 # 🏆 Competition Awards
 - **Third Prize.** Kaggle AI model runtime prediction. *2023.11*
-- **Third Prize.** Kaggle LLM Science Exam: Answer difficult questions using LLM *2023.10*
 - **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
 - **Provincial Grand Prize.** China Undergraduate Mathematical Contest in Modelling. *2022.11*
 - **Provincial Second Prize.** The Lanqiao Cup Competition. *2022.05*
-
-
 
 # 🎖 Scholarships and Awards
 - *2023.11* **Pacemaker to Merit Student** (Award Rate: 53/6985=1%) *China University of Petroleum at Karamay*
@@ -74,19 +71,10 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2018.09 - 2021.06*, Senior Middle School,Heze No.1 Middle School,China. 
 - *2015.09 - 2018.06*, Junior Middle School,Heze City Mudan District No. 21 Junior High School,China. 
 
-<!--
-# 🔧Skills
-- Programming Languages: C/C++, python, latex
-- Developer Tools: VS code, Git, PyCharm, Devc++
-- Languages: Mandarin & Shandong Heze Dialect (Native), English(CET-4:569,CET-6:450)
--->
-
 # 💻 Internships
 - *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), Hangzhou.
 
 # 🗺️ Visitor Map
-
-
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
