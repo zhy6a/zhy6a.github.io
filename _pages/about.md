@@ -75,7 +75,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), Hangzhou.
 
 # 🗺️ Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=D3UNK4XfedFLZh8MTaiI8Vu_7FtS6gOLkvbqVeHps1I&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=D3UNK4XfedFLZh8MTaiI8Vu_7FtS6gOLkvbqVeHps1I'></script>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
