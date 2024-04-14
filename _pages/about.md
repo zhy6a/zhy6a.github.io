@@ -20,7 +20,7 @@ Hi there 👋👋 !
 
 My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate student at the [China University of Petroleum at Karamay(CUPK)](https://www.cupk.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology.
 
-🌟🌟 I’m currently actively seeking for Ph.D., Research Assistant, or internship positions related to LLM or Ai for Science. If you’re interested in working with me, don’t hesitate to drop me an email.
+🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
 <!-- My curriculum vitae can be downloaded[here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf). -->
 
@@ -74,8 +74,15 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 # 💻 Internships
 - *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), Hangzhou.
 
+# 🎡 Activities
+
+## Academic Services
+- Reviewer, ACM Multimedia (MM), 2024.
+
 # 🗺️ Visitor Map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=D3UNK4XfedFLZh8MTaiI8Vu_7FtS6gOLkvbqVeHps1I'></script>
+
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
