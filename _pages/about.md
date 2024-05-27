@@ -77,6 +77,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, NeurIPS, 2024.
 - Reviewer, ACM Multimedia (MM), 2024.
 
 # 🗺️ Visitor Map
