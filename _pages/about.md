@@ -28,6 +28,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 
 # 🔥 News  
+- *2024.05*: Invited as a reviewer for NeurIPS 2024.
 - *2024.04*: Invited as a reviewer for ACM MM 2024.
 - *2023.12*: One paper is accepted by AAAI 2024.
 - *2023.10*: Awarded with National Scholarship 2023.
