@@ -28,6 +28,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 
 # 🔥 News  
+- *2024.06*: One paper is accepted by Knowledge-Based Systems.
 - *2024.05*: Invited as a reviewer for NeurIPS 2024.
 - *2024.04*: Invited as a reviewer for ACM MM 2024.
 - *2023.12*: One paper is accepted by AAAI 2024.
@@ -37,7 +38,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
 
-- [GGSAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection]()   
+- [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28766)   
 Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wang$^\*$, Zhiling Yan, Ruosong Yang, Meng Chen              
 *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
