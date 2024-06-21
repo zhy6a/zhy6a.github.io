@@ -61,11 +61,10 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
 ## 🎏 Competitions
-- **Third Prize.** Kaggle AI model runtime prediction. *2023.11*
 - **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
 - **Provincial Grand Prize.** China Undergraduate Mathematical Contest in Modelling. *2022.11*
-- **Provincial Second Prize.** The Lanqiao Cup Competition. *2022.05*
+
 
 # 📖 Educations
 - 2021.09 - now, Undergraduate, China University of Petroleum at Karamay,China,Majoring in Data Science and Big Data Technology. 
