@@ -38,6 +38,10 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
 
+- [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](10.1016/j.knosys.2024.112109)   
+Yiwei Wei, Maomao Duan, **Hengyang Zhou**, Zhiyang Jia, Zengwei Gao, Longbiao Wang$^\*$            
+*Knowledge-Based Systems, 2024-06*
+
 - [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28766)   
 Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wang$^\*$, Zhiling Yan, Ruosong Yang, Meng Chen              
 *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
@@ -61,6 +65,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
 ## 🎏 Competitions
+- **First Prize.** Information Security and Countermeasures Contest(ISCC-2024). *2024.06*
 - **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
 - **Provincial Grand Prize.** China Undergraduate Mathematical Contest in Modelling. *2022.11*
