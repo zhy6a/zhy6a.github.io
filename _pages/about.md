@@ -38,7 +38,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
 
-- [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](10.1016/j.knosys.2024.112109)   
+- [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](https://doi.org/10.1016/j.knosys.2024.112109)   
 Yiwei Wei, Maomao Duan, **Hengyang Zhou**, Zhiyang Jia, Zengwei Gao, Longbiao Wang$^\*$            
 *Knowledge-Based Systems, 2024-06*
 
