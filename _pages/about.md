@@ -63,6 +63,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
 ## 🎏 Competitions
+- **Third Prize.** The 17th Chinese Collegiate Computing Competition National Finals (4C'2024). *2024.08*
 - **First Prize.** Information Security and Countermeasures Contest(ISCC-2024). *2024.06*
 - **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
