@@ -29,8 +29,6 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 # 🔥 News  
 - *2024.06*: One paper is accepted by Knowledge-Based Systems.
-- *2024.05*: Invited as a reviewer for NeurIPS 2024.
-- *2024.04*: Invited as a reviewer for ACM MM 2024.
 - *2023.12*: One paper is accepted by AAAI 2024.
 - *2023.10*: Awarded with National Scholarship 2023.
 
@@ -82,6 +80,8 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, ICASSP, 2025.
+- Reviewer, ICLR, 2025.
 - Reviewer, NeurIPS, 2024.
 - Reviewer, ACM Multimedia (MM), 2024.
 
