@@ -28,6 +28,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a junior undergraduate stu
 
 
 # 🔥 News  
+- *2024.09*: I was admitted to the 25 Fall graduate program at the School of Intelligence Science and Technology, Nanjing University. My primary research focus will be on 3DV.
 - *2024.06*: One paper is accepted by Knowledge-Based Systems.
 - *2023.12*: One paper is accepted by AAAI 2024.
 - *2023.10*: Awarded with National Scholarship 2023.
