@@ -17,8 +17,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🐯 About Me
-Hi there 👋👋 !
-
 My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate student at the [China University of Petroleum at Karamay(CUPK)](https://www.cupk.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology.
 
 🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
