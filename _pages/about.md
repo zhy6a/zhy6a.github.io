@@ -79,6 +79,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, AISTATS, 2025.
 - Reviewer, IEEE VR, 2025.
 - Reviewer, ICASSP, 2025.
 - Reviewer, ICLR, 2025.
