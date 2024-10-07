@@ -79,14 +79,10 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 # 🎡 Activities
 
 ## Academic Services
-- Reviewer, AISTATS, 2025.
-- Reviewer, IEEE VR, 2025.
-- Reviewer, ICASSP, 2025.
-- Reviewer, ICLR, 2025.
-- Reviewer, NeurIPS, 2024.
-- Reviewer, ACM Multimedia (MM), 2024.
-- Reviewer, IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA), 2025.
-- Reviewer, IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE) 2025.
+- Journal Reviewer: Neural Networks.
+- Conference Reviewer: ACM Multimedia (MM), 2024, AISTATS, 2025, IEEE VR, 2025, ICASSP, 2025, ICLR, 2025, NeurIPS, 2024, 
+- Conference Reviewer, IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA), 2025.
+- Conference Reviewer, IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE) 2025.
 
 # 🗺️ Visitor Map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=D3UNK4XfedFLZh8MTaiI8Vu_7FtS6gOLkvbqVeHps1I'></script>
