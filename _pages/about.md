@@ -25,6 +25,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate s
 
 
 # 🔥 News  
+- *2024.10*: Awarded with National Scholarship 2024.
 - *2024.09*: I was admitted to the 25 Fall graduate program at the School of Intelligence Science and Technology, Nanjing University. My primary research focus will be on 3DV.
 - *2024.06*: One paper is accepted by Knowledge-Based Systems.
 - *2023.12*: One paper is accepted by AAAI 2024.
@@ -55,10 +56,9 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 </div> -->
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2023.11* **Pacemaker to Merit Student** (Award Rate: 53/6985=1%) *China University of Petroleum at Karamay*
-- *2023.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.11* **Pacemaker to Merit Student** (Award Rate: 33/5821=1%) *China University of Petroleum at Karamay*
-- *2022.11* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2024.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 
 ## 🎏 Competitions
 - **Third Prize.** The 17th Chinese Collegiate Computing Competition National Finals (4C'2024). *2024.08*
