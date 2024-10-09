@@ -74,7 +74,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2015.09 - 2018.06*, Junior Middle School,Heze City Mudan District No. 21 Junior High School,China. 
 
 # 💻 Internships
-- *2023.07 - 2023.08*, Westlake University Precision Nutrition and Computational Medicine Lab(Zheng Lab), Hangzhou.
+- *2023.07 - 2023.08*, Westlake University, Hangzhou.
 
 # 🎡 Activities
 
