@@ -56,9 +56,9 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 </div> -->
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2024.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2024.12* **National Scholarship** *Ministry of Education, China* 
+- *2023.12* **National Scholarship** *Ministry of Education, China* 
+- *2022.12* **National Scholarship** *Ministry of Education, China* 
 
 ## 🎏 Competitions
 - **Third Prize.** The 17th Chinese Collegiate Computing Competition National Finals (4C'2024). *2024.08*
