@@ -25,6 +25,8 @@ My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate s
 
 
 # 🔥 News  
+
+- *2024.10*: Won the **Silver Reward** of the 2024 China International College Students 'Internet+' Innovation and Entrepreneurship Competition.
 - *2024.10*: Awarded with National Scholarship 2024.
 - *2024.09*: I was admitted to the 25 Fall graduate program at the School of Intelligence Science and Technology, Nanjing University. My primary research focus will be on 3DV.
 - *2024.06*: One paper is accepted by Knowledge-Based Systems.
@@ -61,11 +63,10 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 - *2022.12* **National Scholarship** *Ministry of Education, China* 
 
 ## 🎏 Competitions
+- **Silver Reward.** The 2024 China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2024.10*
 - **Third Prize.** The 17th Chinese Collegiate Computing Competition National Finals (4C'2024). *2024.08*
 - **First Prize.** Information Security and Countermeasures Contest(ISCC-2024). *2024.06*
-- **Third Prize.** RAICOM National Finals Programming Skills Competition. *2023.08*
 - **Second Prize.** National Collegiate Mathematics Competition. *2023.03*
-- **Provincial Grand Prize.** China Undergraduate Mathematical Contest in Modelling. *2022.11*
 
 
 # 📖 Educations
