@@ -81,7 +81,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 
 ## Academic Services
 - Journal Reviewer: Neural Networks.
-- Conference Reviewer: ACM Multimedia (MM), 2024, AISTATS, 2025, IEEE VR, 2025, ICLR, 2025, NeurIPS, 2024, 
+- Conference Reviewer: ACM Multimedia (MM), 2024, AISTATS, 2025, ICLR, 2025, NeurIPS, 2024, CHI, 2025.
 - Conference Reviewer, IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA), 2025.
 - Conference Reviewer, IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE) 2025.
 
