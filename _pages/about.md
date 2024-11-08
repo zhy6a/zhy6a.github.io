@@ -88,7 +88,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 
 ## Academic Services
 - Journal Reviewer: Neural Networks.
-- Conference Reviewer: ACM Multimedia (MM), 2024, ICLR, 2025, NeurIPS, 2024, COLING, 2025, CHI, 2025.
+- Conference Reviewer: ACM Multimedia (MM), 2024, ICLR, 2025, NeurIPS, 2024, COLING, 2025, ICASSP, 2025.
 
 # 🗺️ Visitor Map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=D3UNK4XfedFLZh8MTaiI8Vu_7FtS6gOLkvbqVeHps1I'></script>
