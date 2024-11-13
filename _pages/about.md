@@ -46,7 +46,7 @@ $^\dagger$: equal contribution, $^*$: corresponding author
 
 - [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](https://doi.org/10.1016/j.knosys.2024.112109)   
 Yiwei Wei, Maomao Duan, **Hengyang Zhou**, Zhiyang Jia, Zengwei Gao, Longbiao Wang$^\*$            
-*Knowledge-Based Systems, 2024-06*
+*Knowledge-Based Systems, 2024-06*. (JCR Q1, IF=8.8)
 
 - [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28766)   
 Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wang$^\*$, Zhiling Yan, Ruosong Yang, Meng Chen              
