@@ -21,7 +21,7 @@ My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate s
 
 My research interests:
 - Neural Rendering
-- LLMs
+- Generation, e.g. Text2Video
 - Multimodal Sentiment Analysis
 
 
