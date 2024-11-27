@@ -32,7 +32,7 @@ My research interests:
 
 
 # 🔥 News  
-- *2024.11*: One paper is accepted by ICDE.
+- *2024.11*: One paper is accepted by ICDE 2025.
 - *2024.11*: One paper is accepted by TMM.
 - *2024.10*: Won the Silver Reward of the 2024 China International College Students 'Internet+' Innovation and Entrepreneurship Competition.
 - *2024.10*: Awarded with National Scholarship 2024.
