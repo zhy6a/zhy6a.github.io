@@ -45,6 +45,10 @@ My research interests:
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
 
+- [DaVinci Sketch: A Versatile Sketch for Efficient and Comprehensive Set Measurements]() 
+Yanshu Wang, Jianan Ji, Chao-Hsuan Liu, **Hengyang Zhou**, Tong Yang
+IEEE 41th International Conference on Data Engineering (ICDE), 2025
+
 - [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](https://doi.org/10.1016/j.knosys.2024.112109)   
 Yiwei Wei, Maomao Duan, **Hengyang Zhou**, Zhiyang Jia, Zengwei Gao, Longbiao Wang$^\*$            
 *Knowledge-Based Systems, 2024-06*. (JCR Q1, IF=8.8)
