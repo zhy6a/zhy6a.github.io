@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate student at the [China University of Petroleum at Karamay(CUPK)](https://www.cupk.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology.
+My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate student at the [China University of Petroleum](https://www.cup.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology. I am also an incoming MS. student (25 Fall) at Nanjing University, supervised by Prof. [Beibei Wang](https://wangningbei.github.io/).
 
 My research interests:
 - Neural Rendering
@@ -26,7 +26,7 @@ My research interests:
 
 
 
-🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+🌟🌟 If you are interested in collaborating with me, don't hesitate to drop me an email! 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -82,8 +82,8 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 
 
 # 📖 Educations
-- 2021.09 - now, Undergraduate, China University of Petroleum at Karamay,China,Majoring in Data Science and Big Data Technology. 
-- *2018.09 - 2021.06*, Senior Middle School,Heze No.1 Middle School,China. 
+- 2021.09 - now, Undergraduate, China University of Petroleum, China, Majoring in Data Science and Big Data Technology. 
+- *2018.09 - 2021.06*, Senior Middle School,Heze No.1 Middle School, China. 
 - *2015.09 - 2018.06*, Junior Middle School,Heze City Mudan District No. 21 Junior High School,China. 
 
 # 💻 Work experience
