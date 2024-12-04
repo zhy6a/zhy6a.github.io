@@ -17,7 +17,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate student at the [China University of Petroleum-Beijing](https://www.cup.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology. I am also an incoming MS. student (25 Fall) at Nanjing University, supervised by Prof. [Beibei Wang](https://wangningbei.github.io/).
+My name is Hengyang Zhou (周恒阳), I’m currently a 4th-year undergraduate student at the [China University of Petroleum-Beijing](https://www.cup.edu.cn/), pursuing a B.E. degree in Data Science and Big Data Technology. 
+
+I am also an incoming MS student (25 Fall) at Nanjing University, supervised by Prof. [Beibei Wang](https://wangningbei.github.io/).
 
 My research interests:
 - Neural Rendering
