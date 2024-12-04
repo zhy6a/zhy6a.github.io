@@ -84,7 +84,7 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 # 📖 Educations
 - 2021.09 - now, Undergraduate, China University of Petroleum, China, Majoring in Data Science and Big Data Technology. 
 - *2018.09 - 2021.06*, Senior Middle School,Heze No.1 Middle School, China. 
-- *2015.09 - 2018.06*, Junior Middle School,Heze City Mudan District No. 21 Junior High School,China. 
+- *2015.09 - 2018.06*, Junior Middle School,Heze City Mudan District No. 21 Junior High School, China. 
 
 # 💻 Work experience
 - *2023.07 - 2023.08*, Research intern, Westlake University, Hangzhou.
