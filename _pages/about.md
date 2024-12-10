@@ -34,6 +34,7 @@ My research interests:
 
 
 # 🔥 News  
+- *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.11*: One paper is accepted by ICDE 2025.
 - *2024.11*: One paper is accepted by TMM.
 - *2024.10*: Won the Silver Reward of the 2024 China International College Students 'Internet+' Innovation and Entrepreneurship Competition.
@@ -46,6 +47,9 @@ My research interests:
 
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
+- [Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints](https://zhyhome.github.io/)   
+Qinfu Xu, Yiwei Wei, Chunlei Wu, Leiquan wang, Shaozu Yuan, Jie Wu, Jing Lu, **Hengyang Zhou**            
+*The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
 
 - [DaVinci Sketch: A Versatile Sketch for Efficient and Comprehensive Set Measurements](https://zhyhome.github.io/)   
 Yanshu Wang, Jianan Ji, Chao-Hsuan Liu, **Hengyang Zhou**, Tong Yang            
