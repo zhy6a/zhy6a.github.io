@@ -37,7 +37,6 @@ My research interests:
 - *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.11*: One paper is accepted by ICDE 2025.
 - *2024.11*: One paper is accepted by TMM.
-- *2024.10*: Won the Silver Reward of the 2024 China International College Students 'Internet+' Innovation and Entrepreneurship Competition.
 - *2024.10*: Awarded with National Scholarship 2024.
 - *2024.09*: I was admitted to the 25 Fall graduate program at the School of Intelligence Science and Technology, Nanjing University. My primary research focus will be on 3DV.
 - *2024.06*: One paper is accepted by Knowledge-Based Systems.
