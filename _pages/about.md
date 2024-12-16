@@ -55,7 +55,7 @@ Qinfu Xu, Yiwei Wei, Chunlei Wu, Leiquan wang, Shaozu Yuan, Jie Wu, Jing Lu, **H
 *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
 
 - [DaVinci Sketch: A Versatile Sketch for Efficient and Comprehensive Set Measurements](https://zhyhome.github.io/)   
-Yanshu Wang, Jianan Ji, Chao-Hsuan Liu, **Hengyang Zhou**, Tong Yang            
+Yanshu Wang, Jianan Ji, Chao-Hsuan Liu, **Hengyang Zhou**, Tong Yang$^\*$            
 *IEEE 41th International Conference on Data Engineering (ICDE), 2025*
 
 - [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](https://doi.org/10.1016/j.knosys.2024.112109)   
