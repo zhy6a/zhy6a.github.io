@@ -51,7 +51,7 @@ Shaozu Yuan, Yiwei Wei$^\*$, **Hengyang Zhou**, Qinfu Xu, Meng Chen, Xiaodong He
 *IEEE Transactions on Multimedia (TMM), 2024*. (JCR Q1, IF=8.4)
 
 - [Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints](https://zhyhome.github.io/)   
-Qinfu Xu, Yiwei Wei, Chunlei Wu, Leiquan wang, Shaozu Yuan, Jie Wu, Jing Lu, **Hengyang Zhou**            
+Qinfu Xu, Yiwei Wei$^\*$, Chunlei Wu, Leiquan wang, Shaozu Yuan, Jie Wu, Jing Lu, **Hengyang Zhou**            
 *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
 
 - [DaVinci Sketch: A Versatile Sketch for Efficient and Comprehensive Set Measurements](https://zhyhome.github.io/)   
