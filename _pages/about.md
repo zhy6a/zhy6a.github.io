@@ -34,6 +34,7 @@ My research interests:
 
 
 # 🔥 News  
+- *2024.12*: One paper is accepted by ICASSP 2025.
 - *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.11*: One paper is accepted by ICDE 2025.
 - *2024.11*: One paper is accepted by TMM.
@@ -46,6 +47,11 @@ My research interests:
 
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
+- [LDGNet: LLMs Debate-Guided Network For Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
+**Hengyang Zhou**, Jinwu Yan, Yaqing Chen, Rongman Hong, Wenbo Zuo, Keyan Jin$^\*$            
+*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025*
+
+
 - [Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
 Shaozu Yuan, Yiwei Wei$^\*$, **Hengyang Zhou**, Qinfu Xu, Meng Chen, Xiaodong He            
 *IEEE Transactions on Multimedia (TMM), 2024*. (JCR Q1, IF=8.4)
