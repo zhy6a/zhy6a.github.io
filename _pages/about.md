@@ -48,7 +48,7 @@ My research interests:
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
 - [LDGNet: LLMs Debate-Guided Network For Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
-**Hengyang Zhou**, Jinwu Yan, Yaqing Chen, Rongman Hong, Wenbo Zuo, Keyan Jin$^\*$            
+**Hengyang Zhou$^\*$**, Jinwu Yan, Yaqing Chen, Rongman Hong, Wenbo Zuo, Keyan Jin$^\*$            
 *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025*
 
 
