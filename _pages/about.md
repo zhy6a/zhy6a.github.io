@@ -85,9 +85,9 @@ Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wa
 </div> -->
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2024.12* **National Scholarship** *Ministry of Education, China* 
-- *2023.12* **National Scholarship** *Ministry of Education, China* 
-- *2022.12* **National Scholarship** *Ministry of Education, China* 
+- *2024.12* **National Scholarship**, Ministry of Education, China 
+- *2023.12* **National Scholarship**, Ministry of Education, China 
+- *2022.12* **National Scholarship**, Ministry of Education, China 
 
 ## 🎏 Competitions
 - **Silver Reward.** The 2024 China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2024.10*
