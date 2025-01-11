@@ -50,7 +50,7 @@ My research interests:
 $^\dagger$: equal contribution, $^*$: corresponding author
 
 - [DeepMSD: Advancing Multimodal Sarcasm Detection through Knowledge-augmented Graph Reasoning](https://zhyhome.github.io/)   
-Yiwei Wei, Hengyang Zhou, Shaozu Yuan, Meng Chen, Haitao Shi, Zhiyang Jia, Longbiao Wang$^\*$, Xiaodong He            
+Yiwei Wei, **Hengyang Zhou**, Shaozu Yuan, Meng Chen, Haitao Shi, Zhiyang Jia, Longbiao Wang$^\*$, Xiaodong He            
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025, 中科院一区TOP*. 
 
 - [LDGNet: LLMs Debate-Guided Network for Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
