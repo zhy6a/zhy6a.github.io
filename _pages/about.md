@@ -48,30 +48,35 @@ My research interests:
 
 # 📝 Publications 
 $^\dagger$: equal contribution, $^*$: corresponding author
+
+- [DeepMSD: Advancing Multimodal Sarcasm Detection through Knowledge-augmented Graph Reasoning](https://zhyhome.github.io/)   
+Yiwei Wei, Hengyang Zhou, Shaozu Yuan, Meng Chen, Haitao Shi, Zhiyang Jia, Longbiao Wang$^\*$, Xiaodong He            
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025, 中科院一区TOP*. 
+
 - [LDGNet: LLMs Debate-Guided Network for Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
 **Hengyang Zhou$^\*$**, Jinwu Yan, Yaqing Chen, Rongman Hong, Wenbo Zuo, Keyan Jin$^\*$            
-*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025*
+*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025, CCF B*
 
 
 - [Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
 Shaozu Yuan, Yiwei Wei$^\*$, **Hengyang Zhou**, Qinfu Xu, Meng Chen, Xiaodong He            
-*IEEE Transactions on Multimedia (TMM), 2024*. (JCR Q1, IF=8.4)
+*IEEE Transactions on Multimedia (TMM), 2024, 中科院一区TOP*. 
 
 - [Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints](https://zhyhome.github.io/)   
 Qinfu Xu, Yiwei Wei$^\*$, Chunlei Wu, Leiquan wang, Shaozu Yuan, Jie Wu, Jing Lu, **Hengyang Zhou**            
-*The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
+*The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025, CCF A*
 
 - [DaVinci Sketch: A Versatile Sketch for Efficient and Comprehensive Set Measurements](https://zhyhome.github.io/)   
 Yanshu Wang, Jianan Ji, Chao-Hsuan Liu, **Hengyang Zhou**, Tong Yang$^\*$            
-*IEEE 41th International Conference on Data Engineering (ICDE), 2025*
+*IEEE 41th International Conference on Data Engineering (ICDE), 2025, CCF A*
 
 - [Towards multimodal sarcasm detection via label-aware graph contrastive learning with back-translation augmentation](https://doi.org/10.1016/j.knosys.2024.112109)   
 Yiwei Wei, Maomao Duan, **Hengyang Zhou**, Zhiyang Jia, Zengwei Gao, Longbiao Wang$^\*$            
-*Knowledge-Based Systems, 2024-06*. (JCR Q1, IF=8.8)
+*Knowledge-Based Systems (KBS), 2024, 中科院一区TOP*.
 
 - [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28766)   
 Yiwei Wei$^\dagger$, Shaozu Yuan$^\dagger$ $^\*$, **Hengyang Zhou**, Longbiao Wang$^\*$, Zhiling Yan, Ruosong Yang, Meng Chen              
-*The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
+*The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024, CCF A*
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
