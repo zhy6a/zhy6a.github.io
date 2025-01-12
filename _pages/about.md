@@ -60,7 +60,7 @@ Yiwei Wei, **Hengyang Zhou**, Shaozu Yuan, Meng Chen, Haitao Shi, Zhiyang Jia, L
 
 - [Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection](https://zhyhome.github.io/)   
 Shaozu Yuan, Yiwei Wei$^\*$, **Hengyang Zhou**, Qinfu Xu, Meng Chen, Xiaodong He            
-*IEEE Transactions on Multimedia (TMM), 2024, 中科院一区TOP*. 
+*IEEE Transactions on Multimedia (TMM), 2025, 中科院一区TOP*. 
 
 - [Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints](https://zhyhome.github.io/)   
 Qinfu Xu, Yiwei Wei$^\*$, Chunlei Wu, Leiquan wang, Shaozu Yuan, Jie Wu, Jing Lu, **Hengyang Zhou**            
